@@ -1,0 +1,4 @@
+name: AutoLapis
+version: 1.0.0
+main: ch.gabzdev.autolapis.main
+description: Place automatiquement les lapis dans les tables d'enchantement !
